@@ -27,7 +27,7 @@ learning  • tailwindcss, nodejs, vue.js,
             csharp, figma, unity
 
 repos     • 12
-commits   • 190
+commits   • 193
 issues    • 10
 stars     • 189
 ```
