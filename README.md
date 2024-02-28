@@ -29,7 +29,7 @@ learning  • tailwindcss, nodejs, vue.js,
 repos     • 14
 commits   • 234
 issues    • 10
-stars     • 191
+stars     • 192
 ```
 
 <h1></h1>
