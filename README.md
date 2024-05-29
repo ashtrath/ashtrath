@@ -28,7 +28,7 @@ learning  • tailwindcss, nodejs, vue.js,
 
 repos     • 15
 commits   • 317
-issues    • 10
+issues    • 11
 stars     • 200
 ```
 
