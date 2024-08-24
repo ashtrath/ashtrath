@@ -26,8 +26,8 @@ skills    • html, css, javascript,
 learning  • tailwindcss, nodejs, vue.js,
             csharp, figma, unity
 
-repos     • 15
-commits   • 345
+repos     • 16
+commits   • 346
 issues    • 11
 stars     • 208
 ```
