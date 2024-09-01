@@ -1,19 +1,18 @@
-<h1 align="center">welcome to my page!</h1>
-
+<h1 align="center"><samp>welcome to my page!</samp></h1>
 
 ```sh
-~/Dyzean: fetch.sh
+~/ashtrath: fetch.sh
 ```
 
-<img align="left" src="https://github.com/Dyzean.png" width="411" />
+<img align="left" src="https://github.com/ashtrath.png" width="411" />
 
 ```haskell
 ashtrath@github
 ------------------------------
-os        • atlasos 2.0
+os        • windows 11 ltsc 24h2 / revios 24.06
 term      • wezterm
-shell     • pwsh 7.3.6
-wms       • dwm
+shell     • pwsh 7.4.5
+wms       • glazewm 3.1.1
 
 pronouns  • he/him
 address   • west java, indonesia
@@ -21,13 +20,13 @@ school    • smkn 1 ciomas
 hobbies   • gaming, code, ricing,
             watching anime, drink coffee.
 
-skills    • html, css, javascript,
-            php, mysql
-learning  • tailwindcss, nodejs, vue.js,
-            csharp, figma, unity
+skills    • next.js, laravel, typescript,
+            tailwindcss, mysql, figma
+learning  • angular, flutter, vue.js,
+            csharp, unity, nodejs,
 
-repos     • 16
-commits   • 346
+repos     • 16 (contributed: 5)
+commits   • 347
 issues    • 11
 stars     • 208
 ```
