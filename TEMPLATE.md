@@ -9,7 +9,7 @@
 ```haskell
 ashtrath@github
 ------------------------------
-os        • windows 11 ltsc 24h2 / revios 24.06
+os        • windows 11 ltsc 24h2
 term      • wezterm
 shell     • pwsh 7.4.5
 wms       • glazewm 3.1.1
@@ -31,7 +31,7 @@ issues    • {{ ISSUES }}
 stars     • {{ STARS }}
 ```
 
-<h1></h1>
+<hr />
 
 <div align="center">
   
