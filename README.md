@@ -9,7 +9,7 @@
 ```haskell
 ashtrath@github
 ------------------------------
-os        • windows 11 ltsc 24h2 / revios 24.06
+os        • windows 11 ltsc 24h2
 term      • wezterm
 shell     • pwsh 7.4.5
 wms       • glazewm 3.1.1
@@ -26,12 +26,12 @@ learning  • angular, flutter, vue.js,
             csharp, unity, nodejs,
 
 repos     • 16 (contributed: 5)
-commits   • 347
+commits   • 348
 issues    • 11
 stars     • 214
 ```
 
-<h1></h1>
+<hr />
 
 <div align="center">
   
