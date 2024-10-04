@@ -25,8 +25,8 @@ skills    • next.js, laravel, typescript,
 learning  • angular, flutter, vue.js,
             csharp, unity, nodejs,
 
-repos     • 17 (contributed: 6)
-commits   • 351
+repos     • 18 (contributed: 6)
+commits   • 352
 issues    • 11
 stars     • 216
 ```
