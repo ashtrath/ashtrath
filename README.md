@@ -28,7 +28,7 @@ learning  • angular, flutter, vue.js,
 repos     • 26 (contributed: 8)
 commits   • 708
 issues    • 12
-stars     • 221
+stars     • 222
 ```
 
 <hr />
