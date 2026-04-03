@@ -26,7 +26,7 @@ learning  • angular, flutter, vue.js,
             csharp, unity, nodejs,
 
 repos     • 24 (contributed: 3)
-commits   • 591
+commits   • 597
 issues    • 12
 stars     • 226
 ```
