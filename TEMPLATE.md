@@ -4,7 +4,7 @@
 ~/ashtrath: fetch.sh
 ```
 
-<img align="left" src="https://github.com/ashtrath.png" width="465.767" />
+<img align="left" src="https://github.com/ashtrath.png" width="411.5" />
 
 ```haskell
 ashtrath@github
