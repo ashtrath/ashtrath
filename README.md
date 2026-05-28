@@ -4,7 +4,7 @@
 ~/ashtrath: fetch.sh
 ```
 
-<img align="left" src="https://github.com/ashtrath.png" width="465.767" />
+<img align="left" src="https://github.com/ashtrath.png" width="411.5" />
 
 ```haskell
 ashtrath@github
@@ -26,7 +26,7 @@ skills    • next.js, astro, laravel, typescript,
 learning  • angular, vue.js, luau, roblox
 
 repos     • 22 (contributed: 1)
-commits   • 670
+commits   • 671
 issues    • 12
 stars     • 226
 ```
