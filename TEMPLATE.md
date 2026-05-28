@@ -4,26 +4,26 @@
 ~/ashtrath: fetch.sh
 ```
 
-<img align="left" src="https://github.com/ashtrath.png" width="411" />
+<img align="left" src="https://github.com/ashtrath.png" width="465.767" />
 
 ```haskell
 ashtrath@github
 ------------------------------
 os        • windows 11 ltsc 24h2
 term      • wezterm
-shell     • pwsh 7.4.5
-wms       • glazewm 3.1.1
+shell     • pwsh 7.6.1
+wms       • glazewm 3.10.1
 
 pronouns  • he/him
 address   • west java, indonesia
-school    • smkn 1 ciomas
+role      • freelance developer & ai integrator
+status    • open to work / freelancing
 hobbies   • gaming, code, ricing,
-            watching anime, drink coffee.
+            watching anime, drinking coffee.
 
-skills    • next.js, laravel, typescript,
-            tailwindcss, mysql, figma
-learning  • angular, flutter, vue.js,
-            csharp, unity, nodejs,
+skills    • next.js, astro, laravel, typescript,
+            tailwindcss, payloadcms
+learning  • angular, vue.js, luau, roblox
 
 repos     • {{ REPOSITORIES }} (contributed: {{ REPOSITORIES_CONTRIBUTED_TO }})
 commits   • {{ COMMITS }}
@@ -36,7 +36,7 @@ stars     • {{ STARS }}
 <div align="center">
   
   [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ashtrath@pm.me)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r.ashtrath/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashtrath.tsx/)
   [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/354831939099688962)
   [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ashtrath)
 
