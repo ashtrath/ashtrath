@@ -26,7 +26,7 @@ skills    • next.js, astro, laravel, typescript,
 learning  • angular, vue.js, luau, roblox
 
 repos     • 22 (contributed: 2)
-commits   • 718
+commits   • 728
 issues    • 12
 stars     • 226
 ```
