@@ -25,8 +25,8 @@ skills    • next.js, astro, laravel, typescript,
             tailwindcss, payloadcms
 learning  • angular, vue.js, luau, roblox
 
-repos     • 24 (contributed: 2)
-commits   • 735
+repos     • 22 (contributed: 2)
+commits   • 733
 issues    • 12
 stars     • 228
 ```
