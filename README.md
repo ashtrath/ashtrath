@@ -1,4 +1,4 @@
-<h1 align="center"><samp>welcome to my page!</samp></h1>
+<h1 align="center"><samp><ruby>ホームページへようこそ！<rt>welcome to my homepage!</rt></ruby></samp></h1>
 
 ```sh
 ~/ashtrath: fetch.sh
@@ -9,13 +9,13 @@
 ```haskell
 ashtrath@github
 ------------------------------
-os        • windows 11 ltsc 24h2
+os        • nixos 26.05 (yarara)
 term      • wezterm
-shell     • pwsh 7.6.1
-wms       • glazewm 3.10.1
+shell     • bash 5.3.9
+wm        • niri 26.04
 
 pronouns  • he/him
-address   • west java, indonesia
+location  • indonesia
 role      • freelance developer & ai integrator
 status    • open to work / freelancing
 hobbies   • gaming, code, ricing,
@@ -26,18 +26,21 @@ skills    • next.js, astro, laravel, typescript,
 learning  • angular, vue.js, luau, roblox
 
 repos     • 27 (contributed: 5)
-commits   • 1064
+commits   • 1065
 issues    • 131
 stars     • 228
 ```
 
-<hr />
+---
 
-<div align="center">
-  
-  [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ashtrath@pm.me)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashtrath.tsx/)
-  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/354831939099688962)
-  [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ashtrath)
-
-</div>
+<p align="right">
+  <samp>
+    <a href="https://ashtrath.vercel.app" target="_blank">me</a>
+    •
+    <a href="mailto:ashtrath@pm.me" target="_blank">mail</a>
+    •
+    <a href="https://bsky.app/profile/ashtrath.me" target="_blank">bluesky</a>
+    •
+    <a href="https://discord.com/users/354831939099688962" target="_blank">discord</a>
+  </samp>
+</p>
