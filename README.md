@@ -27,7 +27,7 @@ learning  • angular, vue.js, luau, roblox
 
 repos     • 27 (contributed: 5)
 commits   • 1067
-issues    • 131
+issues    • 137
 stars     • 228
 ```
 
